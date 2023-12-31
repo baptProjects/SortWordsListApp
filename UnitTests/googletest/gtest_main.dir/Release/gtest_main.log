@@ -1,0 +1,3 @@
+﻿  Building Custom Rule D:/Exercice/googletest/CMakeLists.txt
+  gtest_main.cc
+  gtest_main.vcxproj -> D:\Exercice\build\lib\Release\gtest_main.lib
